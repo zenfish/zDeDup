@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: deduplicator
+## Notes: Weeds out duplicate messages
+## Version: 0.0.1
+## Author: zen
+
+zDeDup.lua
+
